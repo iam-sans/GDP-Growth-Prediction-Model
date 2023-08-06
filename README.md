@@ -1,1 +1,3 @@
 # GDP-Growth-Prediction-Model
+
+What determines the GDP growth of a country? Is it determined by factors such as the number of active working population or the investment by the government in its economy? To answer our question, we looked for a dataset as such. We found a dataset that included several determinants of economic growth for a sample of 121 countries which had records from the years 1960 - 1985. We decided to use this data to see if we could form an adequate model to predict the GDP growth of a given country. We used the dataset Determinants of Economic Growth (GrowthDJ) from package AER.
